@@ -1,1 +1,1 @@
-db.escuchas.find().pretty()
+[{"name": "all", "database": "genuino", "description": "test", "query": "db.escuchas.find().pretty()"}]
